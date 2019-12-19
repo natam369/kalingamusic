@@ -11,7 +11,6 @@
 	<groupId>com.mindtree</groupId>
 	<artifactId>kalingamusicband</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 	<name>kalingamusicband</name>
 	<description>Demo project for Spring Boot</description>
 
